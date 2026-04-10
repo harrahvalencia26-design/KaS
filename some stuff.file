@@ -1,5 +1,0 @@
-git add <filename> or "filename" -- the given file will be shown to others when the next command at the bottom appears
-git commit -m <text> -- gets all the files that were sent to "git add" and writes it permenatley
-git push origin main -- pushes the update to the respository
-
-git pull origin main -- gets the recent update to the repository and overites the explorer old files with new ones
